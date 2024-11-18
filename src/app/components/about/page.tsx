@@ -76,7 +76,7 @@ function About(){
             </div>
         </div>
 
-        <div className="py-1 bg-slate-700 text-center text-white mt-10">
+        <div className="py-1 bg-black text-center text-white mt-10">
             Footer (HomeWork class-6) <br /> | Maimoona |
         </div>
         </div>

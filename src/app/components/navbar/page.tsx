@@ -16,7 +16,7 @@ const Navbar: React.FC = () => {
   };
 
   return (
-    <nav className="flex justify-between items-center bg-red-900 p-4">
+    <nav className="flex justify-between items-center bg-black p-4">
       <Link href="/" className="font-semibold text-2xl text-white">
       DriveLine
       </Link>

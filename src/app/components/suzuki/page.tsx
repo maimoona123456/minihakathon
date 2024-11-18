@@ -53,14 +53,14 @@ function SuzukiAlto() {
                     <h3 className="font-semibold text-emerald-600 text-center text-xl pb-10">PKR 50,00,000</h3>
                     <Link href="/contact">
                         <div>
-                            <button className="border-2 bg-black font-semibold text-white border-slate-600 px-6 py-4">
+                            <button className="border-2 bg-red-600 font-semibold text-white border-slate-600 px-6 py-4">
                                 Make Payment
                             </button>
                         </div>
                     </Link>
                     <br /><br />
 
-                    <div className="py-1 bg-red-900 text-white text-center">
+                    <div className="py-1 bg-black text-white text-center">
                         Footer (HomeWork class-6) <br />
                         | Maimoona | 
                     </div>

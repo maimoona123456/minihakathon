@@ -69,7 +69,7 @@ function HondaCity() {
                     </Link>
                     <br /><br />
 
-                    <div className="py-1 bg-red-900 text-white text-center">
+                    <div className="py-1 bg-black text-white text-center">
                         Footer (HomeWork class-6) <br />
                         | Maimoona | 
                     </div>

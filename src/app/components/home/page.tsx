@@ -12,7 +12,7 @@ function HeroPage() {
             Get Started
           </button>
         </div>
-        <div className="py-1 bg-red-900 text-center align-center  text-white">Footer (HomeWork class-6) <br />
+        <div className="py-1 bg-black text-center align-center  text-white">Footer (HomeWork class-6) <br />
                 | Maimoona | 
                 </div>
       </div>
