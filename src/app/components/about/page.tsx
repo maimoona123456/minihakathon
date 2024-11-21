@@ -7,7 +7,7 @@ function About(){
         < Navbar />
         <div className="h-full bg-gradient-to-r from-slate-400 to-white pt-28">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 px-10">
-            {/* Car 1 Toyota corolla */}
+            {/* Car 1 Toyota orolla */}
             <div className="bg-slate-300 rounded-lg shadow-md pt-10 border-2 border-black px-7 ">
                 <Link href="/corolla"> 
                     <img src="./Corolla.png" alt="Toyota Corolla" className="w-44 h-32 mx-auto transition-transform duration-300 ease-in-out transform hover:scale-105" />
