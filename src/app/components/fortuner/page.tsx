@@ -14,7 +14,7 @@ function Fortuner() {
                     {/* Image Section */}
                     <div className="border-2 w-full max-w-md mx-auto border-black">
                         <img
-                            src="./Fortuner.png"
+                            src="/Fortuner.png"
                             alt="Home Image"
                             className="w-full h-80 transition-transform duration-300 ease-in-out transform hover:scale-105"
                         />

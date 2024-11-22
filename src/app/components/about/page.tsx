@@ -10,7 +10,7 @@ function About(){
             {/* Car 1 Toyota orolla */}
             <div className="bg-slate-300 rounded-lg shadow-md pt-10 border-2 border-black px-7 ">
                 <Link href="/corolla"> 
-                    <img src="./Corolla.png" alt="Toyota Corolla" className="w-44 h-32 mx-auto transition-transform duration-300 ease-in-out transform hover:scale-105" />
+                    <img src="/Corolla.png" alt="Toyota Corolla" className="w-44 h-32 mx-auto transition-transform duration-300 ease-in-out transform hover:scale-105" />
                 </Link>
                 <div className="pt-7">
                     <Link href="/corolla">
@@ -18,7 +18,7 @@ function About(){
                             Toyota Corolla
                         </h3>
                     </Link>
-                    <p className=" text-center pt-3 text-lime-600">PKR 59.7 - 75.5 Lacs</p>
+                    <p className="text-center pt-3 text-lime-600">PKR 59.7 - 75.5 Lacs</p>
                     <p className="text-center text-gray-500">621 Reviews</p>
                     <p className="text-center text-amber-500 pb-4">♥ ♥ ♥</p>
                 </div>
@@ -27,7 +27,7 @@ function About(){
             {/* car-2  SuzukiAlto */}
             <div className="bg-slate-300 pt-10 rounded-lg shadow-md border-2 border-black px-7 ">
                 <Link href="/suzuki"> 
-                    <img src="./SuzukiAlto.png" alt="Suzuki Alto" className="w-44 h-32 mx-auto transition-transform duration-300 ease-in-out transform hover:scale-105" />
+                    <img src="/SuzukiAlto.png" alt="Suzuki Alto" className="w-44 h-32 mx-auto transition-transform duration-300 ease-in-out transform hover:scale-105" />
                 </Link>
                 <div className="pt-7">
                     <Link href="/suzuki">
@@ -44,7 +44,7 @@ function About(){
             {/* car-3 Fortuner */}
             <div className="bg-slate-300 rounded-lg shadow-md pt-10 border-2 border-black px-7 ">
                 <Link href="/fortuner">
-                    <img src="./Fortuner.png" alt="Toyota Fortuner" className="w-44 h-32 mx-auto transition-transform duration-300 ease-in-out transform hover:scale-105" />
+                    <img src="/Fortuner.png" alt="Toyota Fortuner" className="w-44 h-32 mx-auto transition-transform duration-300 ease-in-out transform hover:scale-105" />
                 </Link>
                 <div className="pt-7">
                     <Link href="/fortuner">
@@ -61,7 +61,7 @@ function About(){
             {/* Car-4 Honda City */}
             <div className="bg-slate-300 rounded-lg shadow-md pt-10 border-2 border-black px-7 ">
                 <Link href="/hondaCity">
-                    <img src="./HondaCity.png" alt="Honda City" className="w-44 h-32 mx-auto transition-transform duration-300 ease-in-out transform hover:scale-105" />
+                    <img src="/HondaCity.png" alt="Honda City" className="w-44 h-32 mx-auto transition-transform duration-300 ease-in-out transform hover:scale-105" />
                 </Link>
                 <div className="pt-7">
                     <Link href="/hondaCity">
