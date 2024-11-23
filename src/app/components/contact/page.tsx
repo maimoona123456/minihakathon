@@ -38,14 +38,14 @@ function Contact(){
             <textarea id="address" className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500" placeholder="Enter your address"/>
           </div>
 
-          <Link href="/thankuhPage"><button type="submit" className="w-full bg-blue-700 text-white py-2 px-4 rounded-lg hover:bg-black transition-colors">
+          <Link href="./thankyoupage"><button type="submit" className="w-full bg-blue-700 text-white py-2 px-4 rounded-lg hover:bg-black transition-colors">
             Place Your Order
           </button></Link>
         </form>
       </div>
     </div>
     <div className="py-1 text-center bg-black text-white">Footer (HomeWork class-6) <br />
-                | Maimoona |
+                | Maimoona |GIAIC
                 </div>
         </>
     )

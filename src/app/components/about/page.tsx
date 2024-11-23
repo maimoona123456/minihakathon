@@ -9,7 +9,7 @@ function About(){
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 px-10">
             {/* Car 1 Toyota orolla */}
             <div className="bg-slate-300 rounded-lg shadow-md pt-10 border-2 border-black px-7 ">
-                <Link href="/corolla"> 
+                <Link href="./corolla"> 
                     <img src="/Corolla.png" alt="Toyota Corolla" className="w-44 h-32 mx-auto transition-transform duration-300 ease-in-out transform hover:scale-105" />
                 </Link>
                 <div className="pt-7">
@@ -26,7 +26,7 @@ function About(){
 
             {/* car-2  SuzukiAlto */}
             <div className="bg-slate-300 pt-10 rounded-lg shadow-md border-2 border-black px-7 ">
-                <Link href="/suzuki"> 
+                <Link href="./suzuki"> 
                     <img src="/SuzukiAlto.png" alt="Suzuki Alto" className="w-44 h-32 mx-auto transition-transform duration-300 ease-in-out transform hover:scale-105" />
                 </Link>
                 <div className="pt-7">
@@ -43,7 +43,7 @@ function About(){
 
             {/* car-3 Fortuner */}
             <div className="bg-slate-300 rounded-lg shadow-md pt-10 border-2 border-black px-7 ">
-                <Link href="/fortuner">
+                <Link href="./fortuner">
                     <img src="/Fortuner.png" alt="Toyota Fortuner" className="w-44 h-32 mx-auto transition-transform duration-300 ease-in-out transform hover:scale-105" />
                 </Link>
                 <div className="pt-7">
@@ -60,7 +60,7 @@ function About(){
 
             {/* Car-4 Honda City */}
             <div className="bg-slate-300 rounded-lg shadow-md pt-10 border-2 border-black px-7 ">
-                <Link href="/hondaCity">
+                <Link href="./hondaCity">
                     <img src="/HondaCity.png" alt="Honda City" className="w-44 h-32 mx-auto transition-transform duration-300 ease-in-out transform hover:scale-105" />
                 </Link>
                 <div className="pt-7">
@@ -77,7 +77,7 @@ function About(){
         </div>
 
         <div className="py-1 bg-black text-center text-white mt-10">
-            Footer (HomeWork class-6) <br /> | Maimoona |
+            Footer (HomeWork class-6) <br /> | Maimoona |GIAIC
         </div>
         </div>
        </>

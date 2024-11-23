@@ -13,7 +13,7 @@ function HeroPage() {
           </button>
         </div>
         <div className="py-1 bg-black text-center align-center  text-white">Footer (HomeWork class-6) <br />
-                | Maimoona | 
+                | Maimoona |GIAIC 
                 </div>
       </div>
       </>
